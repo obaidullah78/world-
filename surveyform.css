@@ -1,0 +1,58 @@
+body {
+	background-color: powderblue;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 16px;
+	padding: 0;
+margin: o;
+}
+.h1{
+	text-align: center; 
+	font-size: 30px;
+	padding: 0;
+	margin: auto;
+
+
+}
+.content {
+	width: 80%;
+	margin: auto;
+	text-align: center; 
+	background-color: white;
+	color: black;
+	padding: 15px;
+
+}
+.content p{
+	text-align: center;
+}
+#form1 {
+	text-align: center;
+	width: 95%;
+	margin: auto;
+	background-color: white;
+	color: black;
+}
+.row-tab{
+	display: block;
+	padding-bottom: 6px;
+
+}
+.lable.tab{
+	display: inline;
+	width: 44%;
+	text-align: right;
+	vertical-align: top;
+}
+.input-tab{
+display: inline;
+	width: 54%;
+	text-align: left;
+}
+.select-tab{
+	display: inline-block ;
+	width: 54%;
+	text-align: right;
+}
+#select-box{
+padding: 5px 0px;
+}
